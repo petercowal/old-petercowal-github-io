@@ -1,0 +1,11 @@
+# Site settings
+title: The personal website of Peter Cowal
+email: pcowal@gmail.com
+description: "Built with Jekyll"
+baseurl: ""
+url: "http://petercowal.github.io"
+github_username:  petercowal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
